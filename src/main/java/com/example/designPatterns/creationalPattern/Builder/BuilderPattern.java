@@ -1,4 +1,4 @@
-package com.example.designPatterns;
+package com.example.designPatterns.creationalPattern.Builder;
 
 class User {
     private final String fName;
